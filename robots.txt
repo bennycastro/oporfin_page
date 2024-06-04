@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /admin/
+Disallow: /bower_components/
+Disallow: /css/
+Disallow: /font/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /webfonts/
+
+Sitemap: https://oporfin.com.mx/sitemap.xml

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de XML</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header-section">
+            <h1>Subir archivos</h1>
+            <p>Sube el excel con la información para generar el reporte</p>
+            <p>XML</p>
+        </div>
+        <div class="drop-section">
+            <div class="col">
+                <div class="cloud-icon">
+                    <img src="icons/cloud.png" alt="cloud">
+                </div>
+                <span>Arrastra y suelta tus archivos aquí</span>
+                <span>O</span>
+                <button class="file-selector">Buscar Archivo</button>
+                <input type="file" class="file-selector-input" multiple>
+            </div>
+            <div class="col">
+                <div class="drop-here">Soltar aquí</div>
+            </div>
+        </div>
+        <div class="list-section">
+            <div class="list-title">Archivo Cargado</div>
+            <div class="list"></div>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+</html>

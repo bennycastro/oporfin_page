@@ -1,0 +1,99 @@
+[25-May-2024 03:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[26-May-2024 03:00:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[27-May-2024 03:00:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[28-May-2024 03:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[29-May-2024 03:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[30-May-2024 03:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[31-May-2024 03:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[01-Jun-2024 03:01:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[02-Jun-2024 03:01:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[03-Jun-2024 03:01:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
+[04-Jun-2024 03:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Blocksy\Editor\Blocks\blocksy_get_variables_from_file() in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php:276
+Stack trace:
+#0 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(324): Blocksy\Editor\Blocks\Query->Blocksy\Editor\Blocks\{closure}('')
+#1 /home/oporfin/public_html/elblog/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/oporfin/public_html/elblog/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/oporfin/public_html/elblog/wp-settings.php(695): do_action('init')
+#4 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1383): require('/home/oporfin/p...')
+#5 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php(1302): WP_CLI\Runner->load_wordpress()
+#6 /usr/local/cpanel/3rdparty/wp-toolkit/plib/vendor/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstr in /home/oporfin/public_html/elblog/wp-content/plugins/blocksy-companion/framework/features/blocks/query/block.php on line 276
